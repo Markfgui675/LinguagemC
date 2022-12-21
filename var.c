@@ -4,6 +4,9 @@
 int main(){
     setlocale(LC_ALL,"Portuguese");
     
+    // int %i
+    // float %f
+
     int v1, v2, soma;
     printf("Digite o valor 1: ");
     scanf("%i",&v1);
